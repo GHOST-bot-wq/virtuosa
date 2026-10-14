@@ -1,0 +1,2 @@
+# GS Estética Avançada
+Website pronto para visualização e uso. Abra o index.html em seu navegador.
